@@ -1,0 +1,13 @@
+quarter,education_type,quarterly_change
+2023-03-01,education_percent,5.3
+2024-03-01,education_percent,5.9
+2025-03-01,education_percent,5.2
+2023-03-01,preschool_primary_education_percent,-0.8
+2024-03-01,preschool_primary_education_percent,4.3
+2025-03-01,preschool_primary_education_percent,5.6
+2023-03-01,secondary_education_percent,4.9
+2024-03-01,secondary_education_percent,6.1
+2025-03-01,secondary_education_percent,6.4
+2023-03-01,tertiary_education_percent,9.7
+2024-03-01,tertiary_education_percent,6.5
+2025-03-01,tertiary_education_percent,3.6
